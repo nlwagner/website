@@ -7,7 +7,7 @@ subtitle: Planetary Geophysicist and Occasional Geodesist
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>nick_wagner2@baylor.edu</p>
 
@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-test test test
+Welcome to my website! Here you can find links to all my social medias, CV, and other stuff I think is cool.
+
+I'm currently finishing up my Ph.D. at Baylor University with Peter James and will be starting a postdoc this fall with Harriet Lau at Brown University. 
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
