@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography
+title: photography
 permalink: /photography/
 description: A collection of my photography through the years.
 nav: true
