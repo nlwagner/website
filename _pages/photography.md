@@ -2,18 +2,14 @@
 layout: page
 title: photography
 permalink: /photography/
-description: A collection of my photography through the years.
+description: Photography along the way as I've moved and travelled. I've been using a Canon T6i for about a decade now and recently picked up a Canon AE-1 to try my hand at film formats.
 nav: true
 nav_order: 4
 ---
 
-# Photography
 
-Photography along the way as I've moved and travelled. I've been using a Canon T6i for about a decade now and recently picked up a Canon AE-1 to try my hand at film formats.
 
----
-
-## Landscapes - Woods, rocks, and animals!
+## Landscapes - Trees, rocks, and animals!
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
