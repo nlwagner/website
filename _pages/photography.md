@@ -9,7 +9,7 @@ nav_order: 4
 
 
 
-## Landscapes - Trees, rocks, and animals!
+### Landscapes - Trees, rocks, and animals!
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
@@ -35,7 +35,7 @@ nav_order: 4
 </div>
 
 
-## Astrophotography - Moons, stars, and even Mars!
+### Astrophotography - Moons, stars, and even Mars!
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
