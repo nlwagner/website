@@ -44,12 +44,12 @@ Photography along the way as I've moved and travelled. I've been using a Canon T
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <img src="/assets/img/astro1.jpg" class="img-fluid rounded" alt="Astrophotography 1">
+    <img src="/assets/img/shootingstar.jpg" class="img-fluid rounded" alt="Astrophotography 1">
   </div>
   <div class="col">
-    <img src="/assets/img/astro2.jpg" class="img-fluid rounded" alt="Astrophotography 2">
+    <img src="/assets/img/shootingstar.jpg" class="img-fluid rounded" alt="Astrophotography 2">
   </div>
   <div class="col">
-    <img src="/assets/img/astro3.jpg" class="img-fluid rounded" alt="Astrophotography 3">
+    <img src="/assets/img/shootingstar.jpg" class="img-fluid rounded" alt="Astrophotography 3">
   </div>
 </div>
