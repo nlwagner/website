@@ -9,48 +9,25 @@ nav_order: 4
 
 
 
-### Landscapes - Trees, rocks, and animals!
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <figure>
-      <img src="/assets/img/landscape1.jpg" class="img-fluid rounded" alt="Landscape 1">
-      <figcaption>Landscape 1</figcaption>
-    </figure>
-  </div>
-  <div class="col">
-    <figure>
-      <img src="/assets/img/landscape2.jpg" class="img-fluid rounded" alt="Landscape 2">
-      <figcaption>Landscape 2</figcaption>
-    </figure>
-  </div>
-  <div class="col">
-    <figure>
-      <img src="/assets/img/landscape3.jpg" class="img-fluid rounded" alt="Landscape 3">
-      <figcaption>Landscape 3</figcaption>
-    </figure>
-  </div>
-</div>
-
-### Panoramas
+### Landscapes 
 
 <div class="row g-4">
   <div class="col-12">
     <figure>
-      <img src="/assets/img/landscape-pano1.jpg" class="img-fluid rounded" alt="Panorama 1">
-      <figcaption>Panorama 1</figcaption>
+      <img src="/assets/img/IMG_6854-pano.jpg" class="img-fluid rounded" alt="Panorama 1">
+      <figcaption>Lauterbrunnen! (2026)</figcaption>
     </figure>
   </div>
   <div class="col-12">
     <figure>
-      <img src="/assets/img/landscape-pano2.jpg" class="img-fluid rounded" alt="Panorama 2">
-      <figcaption>Panorama 2</figcaption>
+      <img src="/assets/img/mtn-9.jpg" class="img-fluid rounded" alt="Panorama 2">
+      <figcaption>Mt. Whitney from Alabama Hills (2018-ish)</figcaption>
     </figure>
   </div>
 </div>
 
 
-### Astrophotography - Moons, stars, and even Mars!
+### Astrophotography
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
