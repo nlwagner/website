@@ -27,7 +27,7 @@ nav_order: 4
 </div>
 
 
-### Astrophotography
+### Astrophotography et al.
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
@@ -38,14 +38,14 @@ nav_order: 4
   </div>
   <div class="col">
     <figure>
-      <img src="/assets/img/landscape-pano2.jpg" class="img-fluid rounded" alt="Astrophotography 2">
-      <figcaption>Astrophotography 2</figcaption>
+      <img src="/assets/img/zionbae.jpg" class="img-fluid rounded" alt="Astrophotography 2">
+      <figcaption>Maroon Bells in the early morning (2017-ish)</figcaption>
     </figure>
   </div>
   <div class="col">
     <figure>
-      <img src="/assets/img/landscape-pano2.jpg" class="img-fluid rounded" alt="Astrophotography 3">
-      <figcaption>Astrophotography 3</figcaption>
+      <img src="/assets/img/minni.jpg" class="img-fluid rounded" alt="Astrophotography 3">
+      <figcaption>Waterfall in north Georgia (2016?)</figcaption>
     </figure>
   </div>
 </div>
