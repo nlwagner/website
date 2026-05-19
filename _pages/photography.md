@@ -61,13 +61,13 @@ nav_order: 4
   </div>
   <div class="col">
     <figure>
-      <img src="/assets/img/shootingstar.jpg" class="img-fluid rounded" alt="Astrophotography 2">
+      <img src="/assets/img/landscape-pano2.jpg" class="img-fluid rounded" alt="Astrophotography 2">
       <figcaption>Astrophotography 2</figcaption>
     </figure>
   </div>
   <div class="col">
     <figure>
-      <img src="/assets/img/shootingstar.jpg" class="img-fluid rounded" alt="Astrophotography 3">
+      <img src="/assets/img/landscape-pano2.jpg" class="img-fluid rounded" alt="Astrophotography 3">
       <figcaption>Astrophotography 3</figcaption>
     </figure>
   </div>
