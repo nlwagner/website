@@ -56,7 +56,7 @@ nav_order: 4
   <div class="col">
     <figure>
       <img src="/assets/img/shootingstar.jpg" class="img-fluid rounded" alt="Astrophotography 1">
-      <figcaption>Astrophotography 1</figcaption>
+      <figcaption>Arches National Park (2017-ish)</figcaption>
     </figure>
   </div>
   <div class="col">
