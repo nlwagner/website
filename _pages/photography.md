@@ -14,7 +14,7 @@ nav_order: 4
 <div class="row g-4">
   <div class="col-12">
     <figure>
-      <img src="/assets/img/IMG_6854-pano.jpg" class="img-fluid rounded" alt="Panorama 1">
+      <img src="/assets/img/IMG_6854-Pano.jpg" class="img-fluid rounded" alt="Panorama 1">
       <figcaption>Lauterbrunnen! (2026)</figcaption>
     </figure>
   </div>
