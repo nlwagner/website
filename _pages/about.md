@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Planetary Geophysicist and Geodesist
+subtitle: Planetary Geophysicist
 
 profile:
   align: right
